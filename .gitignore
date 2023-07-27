@@ -1,3 +1,4 @@
 /.vscode
 /contributing.md
 /application\config\database.php
+application/config/database.php
